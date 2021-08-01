@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "BE Apple MacBook Pro",
+      "price": 120000,
+      "image": "https://via.placeholder.com/300?text=Apple+MacBook+Pro"
+    },
+    {
+      "id": 2,
+      "name": "BE Samsung Mobile",
+      "price": 80000,
+      "image": "https://via.placeholder.com/300?text=Samsung+Mobile"
+    },
+    {
+      "id": 3,
+      "name": "BE SparX Shoes",
+      "price": 1250,
+      "image": "https://via.placeholder.com/300?text=SparX+Shoes"
+    },
+    {
+      "id": 4,
+      "name": "BE Ray Ban UV Block Ultra Dark Sunglasses",
+      "price": 4500,
+      "image": "https://via.placeholder.com/300?text=Ray+Ban+UV+Block+Ultra+Dark+Sunglasses"
+    },
+    {
+      "id": 5,
+      "name": "BE Water Bottle - Blue",
+      "price": 80,
+      "image": "https://via.placeholder.com/300?text=Water+bottle+-+Blue"
+    },
+    {
+      "name": "Oneplus 8T",
+      "price": 42000,
+      "id": "6a78febf-7296-43e4-86c6-7b16c6838d66",
+      "image": "https://via.placeholder.com/300?text=Oneplus+8T"
+    },
+    {
+      "name": "Levis Jeans",
+      "price": 1350,
+      "id": "b5bd0774-3410-4372-b997-8be96e496c1b",
+      "image": "https://via.placeholder.com/300?text=Levis+Jeans"
+    },
+    {
+      "name": "Peter England Shirt",
+      "price": 1500,
+      "id": "53072fd0-46d4-407f-bc1c-75d047502fa0",
+      "image": "https://via.placeholder.com/300?text=Peter+England+Shirt"
+    }
+  ]
+}
